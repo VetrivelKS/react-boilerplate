@@ -1,4 +1,4 @@
-# react boilerplates
+# react boilerplate
 
 ## Setup
 
