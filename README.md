@@ -20,3 +20,12 @@ $ yarn start
 ```
 
 Now you can open [http://localhost:3000](http://localhost:3000) in browser and start developing.
+
+### For development in VS Code
+
+## 4. prettier
+
+- Have used prettier for code beautification
+- Install Extension: `prettier code formatter`
+  https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+- `.prettierrc` file has the config for prettier
