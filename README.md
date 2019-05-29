@@ -29,3 +29,7 @@ Now you can open [http://localhost:3000](http://localhost:3000) in browser and s
 - Install Extension: `prettier code formatter`
   https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - `.prettierrc` file has the config for prettier
+
+# 5. axios
+
+https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5
