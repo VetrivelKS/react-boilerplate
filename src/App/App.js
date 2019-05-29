@@ -1,7 +1,7 @@
-import React, {Component} from "react"
-import {Route, Link, Switch, BrowserRouter as Router} from "react-router-dom"
-import {PageOne} from "../views/PageOne"
-import {PageTwo} from "../views/PageTwo"
+import React, { Component } from "react"
+import { Route, Link, Switch, BrowserRouter as Router } from "react-router-dom"
+import { PageOne } from "../views/PageOne"
+import { PageTwo } from "../views/PageTwo"
 
 // import "./App.css";
 
