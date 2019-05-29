@@ -4,22 +4,27 @@
 
 ### 1. Get the source code
 
-https://github.com/VetrivelKS/react-boilerplate.git
+### 2. To install dependencies via yarn
 
-### 2. Install dependencies via yarn
+# install yarn
 
 ```sh
 $ npm install -g yarn
+```
+
+# from the root folder of the project, where package.json is located
+
+```sh
 $ yarn install
 ```
 
-### 3. Run the app
+### 3. To run the app
 
 ```sh
 $ yarn start
 ```
 
-Now you can open [http://localhost:3000](http://localhost:3000) in browser and start developing.
+Now you can open [http://localhost:3000](http://localhost:3000) in browser and navigate through.
 
 ### For development in VS Code
 
