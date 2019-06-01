@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is a react boiler plate code with minimal setup created by Vetrivel KS, to understand setting up a project and to avoid using facebook/create-react-app. ",
   "main": "src/App/index.js",
-  "_main_comment": "removing main from package json made no difference here, must be because webpack handles bundling",
+  "_comment_for_main": "removing main from package json made no difference here, must be because webpack handles bundling",
   "scripts": {
     "start": "webpack-dev-server --mode development"
   },

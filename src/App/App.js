@@ -1,8 +1,8 @@
 import React, { Component } from "react"
 import { Route, Link, Switch, BrowserRouter as Router } from "react-router-dom"
-import { PageOne } from "../views/PageOne"
-import { PageTwo } from "../views/PageTwo"
-
+import { PageOne } from "../views/pages/PageOne"
+import { PageTwo } from "../views/pages/PageTwo"
+import { Footer } from "../views/components/Footer"
 // import "./App.css";
 
 class App extends Component {
@@ -18,6 +18,7 @@ class App extends Component {
             <Route exact path="/" component={PageOne} />
             <Route exact path="/pagetwo" component={PageTwo} />
           </Switch>
+          <Footer />
         </div>
       </Router>
     )
