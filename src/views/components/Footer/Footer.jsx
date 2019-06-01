@@ -9,11 +9,13 @@ class Footer extends React.Component {
           <Col className="d-flex justify-content-center" md={6} sm={12}>
             <div>This site is developed by Vetrivel K Subramaniam</div>
           </Col>
+          |
           <Col className="d-flex justify-content-center">
             <Nav.Link href="http://vetrivelks.github.io" target="_blank">
               Portfolio
             </Nav.Link>
           </Col>
+          |
           <Col className="d-flex justify-content-center">
             <Nav.Link
               href="https://www.linkedin.com/in/linktovetri/"
