@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from "react"
 // import "./App.css";
 
 class PageOne extends Component {
@@ -7,7 +7,7 @@ class PageOne extends Component {
       <div className="page-one">
         <h1> Page One </h1>
       </div>
-    );
+    )
   }
 }
 
