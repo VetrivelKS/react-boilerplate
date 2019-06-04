@@ -1,0 +1,5 @@
+.scrollTable{
+  height: 450px;   
+  overflow-y: auto;    /* Trigger vertical scroll    */
+  overflow-x: auto;  /* Hide the horizontal scroll */
+}
