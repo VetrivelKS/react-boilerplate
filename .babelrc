@@ -5,5 +5,9 @@
     // preset-react for jsx ... to vanilla js
     "@babel/preset-react"
   ],
-  "plugins": [["@babel/plugin-proposal-class-properties", {"loose": true}]]
+  "plugins": [
+    ["@babel/plugin-proposal-class-properties", { "loose": true }],
+    "@babel/plugin-transform-async-to-generator",
+    "@babel/plugin-transform-runtime"
+  ]
 }

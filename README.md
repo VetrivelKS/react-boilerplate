@@ -2,7 +2,7 @@
 
 ## Setup
 
-### 1. Get the source code
+### 1. Download the source code
 
 ### 2. To install dependencies via yarn
 
@@ -24,7 +24,7 @@ $ yarn install
 $ yarn start
 ```
 
-Now you can open [http://localhost:3000](http://localhost:3000) in browser and navigate through.
+Now you can hit [http://localhost:3000](http://localhost:3000) in browser and navigate through.
 
 ### For development in VS Code
 
